@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Here I could say lots of fun things about my site.
 
-Maybe say a some things about yourself.
+Or maybe say a some things about myself.
 
-Or maybe what you plan to blog about.
+But I won't.

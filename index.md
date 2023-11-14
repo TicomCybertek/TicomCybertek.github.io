@@ -1,5 +1,5 @@
-Here I could say lots of fun things about my site.
+<p><i>Since 1983.</i></p>
 
-Or maybe say a some things about myself.
+<p>A blog and publications repository for Thomas Icom (Ticom). Creator and editor of Cybertek, Dystonaut, and Technical Intelligence Communications zines.</p>
 
-But I won't.
+<p>Electronics - Radio Communications - Communications Monitoring - SIGINT - COMINT - OSINT - Self-Reliance - Preparedness - Survivalism</p>
